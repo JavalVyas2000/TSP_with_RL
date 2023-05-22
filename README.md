@@ -8,4 +8,6 @@
 
 ![image](https://github.com/JavalVyas2000/TSP_with_RL/assets/73403218/48c596cb-e219-4558-9a39-5001cedf665b)
 
+![image](https://github.com/JavalVyas2000/TSP_with_RL/assets/73403218/92dc80e1-80bc-4101-87ad-ecf63d02b341)
+
 ![image](https://github.com/JavalVyas2000/TSP_with_RL/assets/73403218/9cd951ff-91fc-43f0-b7d5-878d4b251565)
